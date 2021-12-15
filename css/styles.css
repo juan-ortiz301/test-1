@@ -1,0 +1,12 @@
+
+*{
+    background-color: salmon;
+}
+
+.main-t{
+    color: green;
+    background-color: slateblue;
+    width: 8%;
+    margin-left: 100px;
+    padding-top: 2rem;
+}
